@@ -8,7 +8,6 @@
 
 - 🌍 I'm from Ukraine, but I'm based in Warszawa
 - ✉️  You can contact me at [tatina892@gmail.com](mailto:tatina892@gmail.com)
-- 🧠  I'm learning Type Scripte
 
 ## Skills
 
@@ -35,11 +34,12 @@
 ### 👨‍💻 About Me
 
 I'm switcher, embarking on my development journey and aspiring to become a professional in the field, and I have completed a **Full Stack** development course.<br>
-My project experience includes team and individual projects, where I have worked with technologies such as **HTML5**, **CSS3**, **JavaScript**, **React**, and **Node.js**.<br>
+My project experience includes team and individual projects, where I have worked with technologies such as **HTML5**, **CSS3**, **JavaScript**, **React**/**Redux**, and **Node.js**.<br>, **Next.js**, **Type Script**
+
 Additionally, I am familiar with Agile and Scrum methodologies. <br>
 
 🌐 **Languages** :
-🇺🇦Ukrainian - native | 🇬🇧English - pre-intermediate | plPoland-pre-intermediate | ruRussian - native
+🇺🇦Ukrainian - native | 🇬🇧English - upper-intermediate | plPoland-upper-intermediate | ruRussian - native
 
 ### Socials
 
