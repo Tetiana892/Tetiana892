@@ -33,8 +33,11 @@
 
 ### 👨‍💻 About Me
 
-I'm switcher, embarking on my development journey and aspiring to become a professional in the field, and I have completed a **Full Stack** development course.<br>
-My project experience includes team and individual projects, where I have worked with technologies such as **HTML5**, **CSS3**, **JavaScript**, **React**/**Redux**, and **Node.js**, **Next.js**, **Type Script**,.<br> **WordPress**, **PHP**
+I have more than one year of commercial experience as a **WordPress developer**. During this time, I have achieved considerable success and would like to emphasize my ability to write clean and understandable code, which my colleagues have always found easy to work with. I would also like to highlight my communication skills and ability to fit into a team.<br>
+
+At work, I have experience writing functionality that my colleagues use, and I am always happy to help anyone who needs assistance in understanding it.<br>
+
+In addition to **WordPress and PHP**, I have knowledge of  **HTML5**, **CSS3**, **JavaScript**, **React**/**Redux**, and **Node.js**, **Next.js**, **Type Script**. These technologies enable me to create modern and high-performance web applications, contributing to the successful outcomes of projects.
  
 
 Additionally, I am familiar with Agile and Scrum methodologies. <br>
